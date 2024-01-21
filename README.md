@@ -1,6 +1,8 @@
 Part 1 – Working with date and time types in Python. 
+
 For this exercise, carefully read about the date and time types in Python from the following link:  https://docs.python.org/3/library/datetime.html 
 Tasks: 
+
 a.	Create a basic ‘timedelta’ and print it (expected result for example: 365 days, 5:01:00). 
 b.	Print today’s date and current time (Ex. Today is: 2023-01-12 00:23:50.465243).
 c.	Print today’s date and time two years from now (Ex. Two years from now it will be: 2025-01-11 00:33:09.411866).
